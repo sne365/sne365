@@ -61,6 +61,9 @@
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
+  <a href="https://www.splunk.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="splunk" width="50" height="40"/>
+</a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   </a>
